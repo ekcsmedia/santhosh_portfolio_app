@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268354695536",
+    "project_id": "santhosh-portfolio-app",
+    "storage_bucket": "santhosh-portfolio-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268354695536:android:f6a1e44b690728ebab1fb5",
+        "android_client_info": {
+          "package_name": "com.flutter.santhosh_portfolio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268354695536-5g0e0u2e1627ua37fkcjbi37v4j7kc5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.santhosh_portfolio_app",
+            "certificate_hash": "dbb54d81de3b1d7f0dd538b312634be00917b31b"
+          }
+        },
+        {
+          "client_id": "268354695536-i725er30giart901hue95b87eqvv42mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ98QCLqigpss0-4u2chwxZ_eBMzamfgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268354695536-i725er30giart901hue95b87eqvv42mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
